@@ -1,3 +1,4 @@
+#include "pch.h"
 #include "NetcodeManager.h"
 #include "bakkesmod/wrappers/PluginManagerWrapper.h"
 #include <sstream>
